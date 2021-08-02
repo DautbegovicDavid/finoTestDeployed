@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-finotest-dev-101511-authRole",
+            "UnauthRoleArn": "arn:aws:iam::934371421717:role/amplify-finotest-dev-101511-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::934371421717:role/amplify-finotest-dev-101511-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-finotest-dev-101511-deployment",
+            "UnauthRoleName": "amplify-finotest-dev-101511-unauthRole",
+            "StackName": "amplify-finotest-dev-101511",
+            "StackId": "arn:aws:cloudformation:us-east-1:934371421717:stack/amplify-finotest-dev-101511/1c902330-f045-11eb-a4f2-0a6e9e609c1f",
+            "AmplifyAppId": "d2qyaxy7evnjup"
+        },
+        "categories": {
+            "auth": {
+                "finotest141b6587": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2qyaxy7evnjup",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
